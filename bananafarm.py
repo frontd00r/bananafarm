@@ -9,7 +9,8 @@ uprompt = input("")
 if uprompt == "help":
     print("dbcreate - creates a database.")
     print("version - prints the version number to the screen.")
-    print("checkdb - 
+    print("checkdb - checks the databases on the host.")
+    
 
 
     
